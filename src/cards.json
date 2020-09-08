@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Athena",
+      "image": "https://i.pinimg.com/originals/46/16/03/4616030ae791adaa99b318a0f54f2ded.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Aphrodite",
+      "image": "https://www.greekboston.com/wp-content/uploads/2014/10/87821072.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Artemis",
+      "image": "https://cdn.britannica.com/54/13354-050-05044890/Artemis-huntress-Paris-Louvre.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Hera",
+      "image": "https://vignette.wikia.nocookie.net/evilbabes/images/3/34/Hera..jpg/revision/latest/scale-to-width-down/340?cb=20190817112155",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Hestia",
+      "image": "https://i.pinimg.com/originals/70/71/b7/7071b78313c41d934d26aee2c176b75b.jpg",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Persephone",
+      "image": "https://2.bp.blogspot.com/-njChdGcFZN8/UmjWUeXec5I/AAAAAAAAAVw/AoJmQDV_hSo/s1600/Persephone-01.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Medusa",
+      "image": "https://vignette.wikia.nocookie.net/greekgoddesses/images/e/eb/Medusa.jpg/revision/latest/scale-to-width-down/340?cb=20131110131831",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Achilles",
+      "image": "https://www.maicar.com/GML/000Images/aim/achilles3718.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Demeter",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Demeter_Altemps_Inv8546.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Zeus",
+      "image": "https://i.pinimg.com/originals/f2/89/84/f28984a535b6738c11fd7547c90ae142.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Pandora",
+      "image": "https://www.greeklegendsandmyths.com/uploads/5/3/1/3/53133595/display-image-php_123_orig.jpg",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Iris",
+      "image": "https://i.pinimg.com/originals/10/eb/fc/10ebfc548c7defe4bc76ff1c1a631ecf.jpg",
+      "count": 0
+    }
+  ]
