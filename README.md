@@ -1,5 +1,5 @@
 # Clicky-Game
-## how to win
+## How to Play
 Click a different Card Each Time!
 
 ### Instructions
